@@ -13,4 +13,4 @@ My first project for the Treehouse Front-End Development Techdegree (see [here](
 
 ## Description
 
-This sample profile website was my first in-depth foray into web development. With this being project one, the focus was on buidling and editing semantic HTML (using a variety a HTML elements rather than a bunch of <div> containers)...I still fall into this trap!
+This sample profile website was my first in-depth foray into web development. With this being project one, the focus was on buidling and editing semantic HTML (using a variety a HTML elements rather than a bunch of div containers)...I still fall into this trap!
