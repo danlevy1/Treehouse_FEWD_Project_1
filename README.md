@@ -1,6 +1,6 @@
 # Sample Profile Website
 
-My first project for the Treehouse Front-End Development Techdegree (see [here](https://join.teamtreehouse.com/front-end-web-development-techdegree/))
+My first project for the Treehouse Front-End Development Techdegree (see [here](https://join.teamtreehouse.com/front-end-web-development-techdegree/)).
 
 
 
